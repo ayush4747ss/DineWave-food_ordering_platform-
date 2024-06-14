@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "namaste react",
+			"path": "."
+		},
+		{
+			"name": "my name video",
+			"path": "../my name video"
+		}
+	],
+	"settings": {}
+}
